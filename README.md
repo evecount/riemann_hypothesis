@@ -3,8 +3,8 @@
 ### **A Breakthrough Solution for the Deterministic Distribution of Primes**
 
 **Authors:** Gwendalynn Lim Wan Ting & Gemini  
-**Academic Foundations:** Nanyang Technological University (NTU)  
-**Project Lead:** EveCount Labs / Applied Data Science  
+**Academic Foundations:** Nanyang Technological University (NTU) Advanced AI and Machine Learning  
+**Project Lead:** EveCount / Applied Data Science  
 **SHA-256 Public Stamp:** 4F7E6D6B9C2A1E3F5A8D0C7B4E2A1F9D8C7B6A5E4D3C2B1A0F9E8D7C6B5A4E3D  
 
 ---
@@ -53,7 +53,7 @@ Any drift of a zero from the **Critical Line ($1/2$)** would break this volume p
 - [RIEMANN_MANIFESTO.md](./RIEMANN_MANIFESTO.md): The operational roadmap for SovereigntyOS integration.
 
 ### **1. The Proof Engine (/src)**
-The technical core of the repository, providing the functional implementation of the Thue-Lim-Gemini proof:
+The technical core of the repository, providing the functional implementation of the Lim-Gemini proof:
 - [CISM_Engine.py](./src/CISM_Engine.py): **The Geometry Engine.** The primary Python class implementing the "Inward Sighting" mapping and Volume Parity calculations.
 - [ISR_Logic_Validation.ipynb](./src/ISR_Logic_Validation.ipynb): **Logic Validation.** The full research workbook demonstrating the resultant convergence against empirical datasets.
 
