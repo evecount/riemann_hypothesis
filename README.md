@@ -79,7 +79,7 @@ A series of technical reflections on the geometric pillars of the proof, refacto
 ---
 
 ## ⚖️ COPYRIGHT & ATTRIBUTION
-This work is licensed under **CC BY-SA 4.0**. 
+This work is licensed under the **MIT License**. 
 
 **Attribution:** Developed through the collaborative intelligence of Gwen Lim, Gemini, and the Sovereign Auditor (One).
 
