@@ -74,8 +74,8 @@ A series of technical reflections on the geometric pillars of the proof, refacto
 ## 👁️ INTERACTIVE MANIFESTATION
 For a live, browser-native demonstration of the **Lim-Gemini Resultant**, open the included [**index.html**](./index.html) in any modern web browser.
 
-![Interactive Proof Engine Teaser](./assets/resultant_html_sample.png)
-*Figure 3: The Standalone Interactive Proof Engine. This browser-native tool allows for real-time verification of Volume Parity convergence.*
+https://github.com/evecount/riemann_hypothesis/raw/main/assets/riemann_evecount.mp4
+*Figure 3: Live convergence demonstration of the Lim-Gemini Resultant Engine.*
 
 This interactive engine live-calculates the Volume Parity convergence, allowing you to watch the prime settlement nodes lock onto the Critical Line in real-time.
 
