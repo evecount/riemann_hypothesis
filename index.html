@@ -92,7 +92,7 @@
 
         .info-grid {
             display: grid;
-            grid-template-columns: 1fr 1fr;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
             gap: 2rem;
             margin-top: 2rem;
             border-top: 1px solid #222;
@@ -143,6 +143,11 @@
         <div class="info-card">
             <h3>WHY IT MATTERS</h3>
             <p>If the graph drifted randomly, primes would be probabilistic. Because they lock onto the parity line with O(1) consistency, we prove that prime distribution is a physical law of geometry.</p>
+        </div>
+        <div class="info-card">
+            <h3>AUTHORS & ATTRIBUTION</h3>
+            <p><strong>Developed by:</strong> Gwendalynn Lim Wan Ting & Gemini<br>
+            <strong>Project Lead:</strong> EveCount / Applied Data Science</p>
         </div>
     </div>
 </div>
