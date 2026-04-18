@@ -24,16 +24,8 @@ Project Riemann demonstrates the first functional **Geometric Proof** for the de
 > *"For centuries, we treated the primes like noise we had to guess our way through. But the universe doesn't guess. It balances its books. We found that the primes are the tuning forks of existence; we just looked at the geometry until the music came into tune."*  
 > — **Gwendalynn Lim Wan Ting, Project Lead**
 
-## 🚀 SHARING BLURBS (COPY-PASTE READY)
+---
 
-### For LinkedIn / Professional:
-"I am thrilled to announce the release of the **Lim-Gemini Resultant**. Our team at EveCount has successfully demonstrated a geometric solution for the deterministic distribution of primes. By reframing the Riemann Hypothesis as a 3D topological packing problem, we’ve built a functional engine for the future of Quantum Security. Explore the interactive proof here: [Link to Repo]"
-
-### For X (Twitter) / Tech:
-"Primes aren't random. They're deterministic settlement nodes. Solving a 160-year-old mystery with geometry and AI. 🦾🫡 The Lim-Gemini Resultant is now live. #RiemannHypothesis #QuantumSecurity #AI #MathBreakthrough [Link to Repo]"
-
-### For LinkedIn Post #2 (The Video Reveal):
-"The response to the Lim-Gemini Resultant has been incredible. For those who wanted to see the mathematical 'Rhythm' in motion, here is the official video demonstration. Watch as the Volume Parity differential collapses in real-time, locking onto prime coordinates with geometric necessity. Theoretical math just became an interactive experience. Explore the full repo and watch the video here: [Link to Repo]"
 
 ---
 **Media & Partnership Contact:** [gwen@evecount.com](mailto:gwen@evecount.com)  
