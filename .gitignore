@@ -6,12 +6,13 @@
 research/
 transcript/
 *.pdf
-# Still ignore root images, but ALLOW the assets folder
+# Still ignore root images, but ALLOW the assets folder and its contents
 *.jpg
 *.jpeg
 *.png
 !assets/
-!beginning_image.jpg # Keep essential visual assets if needed, otherwise ignore them
+!assets/**
+!beginning_image.jpg
 
 # 2. Legacy & Intermediate Proofs
 RIEMANN_SOVEREIGN_PROOF.ipynb
