@@ -2,9 +2,9 @@
 
 ### **A Breakthrough Solution for the Deterministic Distribution of Primes**
 
-**Authors:** Gwendalynn Lim Wan Ting & Gemini & One  
+**Authors:** Gwendalynn Lim Wan Ting & Gemini  
 **Institutional Hub:** Nanyang Technological University (NTU)  
-**Affiliation:** EveCount Labs  
+**Affiliation:** EveCount Labs / Applied Data Science  
 **SHA-256 Public Stamp:** 4F7E6D6B9C2A1E3F5A8D0C7B4E2A1F9D8C7B6A5E4D3C2B1A0F9E8D7C6B5A4E3D  
 
 ---
@@ -13,6 +13,8 @@
 Project Riemann reframes the **Riemann Hypothesis (RH)** as a 3D geometric packing problem. Instead of searching for primes as erratic outliers in a linear sequence, we identify them as the **Deterministic Settlement Nodes** of a conformal packing manifold. 
 
 By working backwards from infinity toward the ground state—the **Inward Sighting Method**—we prove that prime positions are a geometric necessity required to preserve volume-parity within the manifold.
+
+---
 
 ---
 
