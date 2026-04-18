@@ -15,6 +15,18 @@ This directory contains the foundational datasets used for the numerical validat
 
 These datasets provide the "Inward Sighting" ground truth. The **CISM Engine** utilizes this high-fidelity data to verify the **Volume-Parity Residuals** across the first 1,000+ settlement nodes.
 
-## Attribution
+## Credits & Attribution
 
-This dataset serves as the computational baseline for the **Project Riemann / Lim-Gemini** breakthrough.
+The foundational 10,000 Zero dataset utilized in this repository for numerical validation is based on the research and computation work of **Jian Zhou**.
+
+If you utilize this baseline data in your own research, please cite the original source:
+
+```bibtex
+@article{Zhou2026SevenPerspectives,
+  author  = {Jian Zhou},
+  title   = {Seven Perspectives on the {Riemann} Hypothesis: A Unified Computational Exploration with 10,000 Zeros},
+  journal = {Research in Number Theory},
+  year    = {2026},
+  note    = {Submitted}
+}
+```
