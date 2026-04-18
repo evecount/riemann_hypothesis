@@ -79,6 +79,9 @@ For a live, browser-native demonstration of the **Lim-Gemini Resultant**, open t
 
 This interactive engine live-calculates the Volume Parity convergence, allowing you to watch the prime settlement nodes lock onto the Critical Line in real-time.
 
+> [!NOTE]
+> To view the interactive engine, please **Clone the Repository** and open `index.html` in your local web browser. GitHub's file viewer will only display the source code.
+
 ---
 
 ## 🚀 GETTING STARTED
