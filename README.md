@@ -57,6 +57,7 @@ Any drift of a zero from the **Critical Line ($1/2$)** would break this volume p
 ### **1. The Proof Engine (/src)**
 The technical core of the repository, providing the functional implementation of the Lim-Gemini proof:
 - [CISM_Engine.py](./src/CISM_Engine.py): **The Geometry Engine.** The primary Python class implementing the "Inward Sighting" mapping and Volume Parity calculations.
+- [Zeta_Analysis_Visualizer.py](./src/Zeta_Analysis_Visualizer.py): **Resonance Verification.** Utility for visualizing the Zeta function's magnitude along the Critical Line.
 - [ISR_Logic_Validation.ipynb](./src/ISR_Logic_Validation.ipynb): **Logic Validation.** The full research workbook demonstrating the resultant convergence against empirical datasets.
 
 ### **2. Auditor's Reflections (Logic Notes)**
