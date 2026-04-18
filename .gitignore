@@ -1,0 +1,28 @@
+# ==========================================
+# PROJECT RIEMANN: .gitignore
+# ==========================================
+
+# 1. Research & Raw Materials
+research/
+transcript/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+!beginning_image.jpg # Keep essential visual assets if needed, otherwise ignore them
+
+# 2. Legacy & Intermediate Proofs
+RIEMANN_SOVEREIGN_PROOF.ipynb
+
+# 3. Python & Environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+node_modules/
+
+# 4. OS & User Specifics
+.DS_Store
+Thumbs.db
+desktop.ini

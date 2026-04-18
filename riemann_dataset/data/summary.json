@@ -1,0 +1,19 @@
+{
+  "n_zeros": 10000,
+  "gamma_range": [
+    14.134725141734695,
+    9877.782654005501
+  ],
+  "unit_circle_max_dev": 0,
+  "li_n_max": 2000,
+  "li_all_positive": true,
+  "li_lambda_max": 4813.526935739565,
+  "sk_all_pass": true,
+  "spacing_mean": 0.9998987588866218,
+  "spacing_ks_gue": 0.027440588663848936,
+  "spacing_ks_poisson": 0.3066650763008726,
+  "mertens_M_10M": 1037,
+  "ortho_all_pass": true,
+  "ortho_max_ratio": 2.001465642554339,
+  "ortho_mean_ratio": 0.7070351682818308
+}
