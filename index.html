@@ -197,9 +197,11 @@
                 maintainAspectRatio: false,
                 scales: {
                     x: {
+                        type: 'linear',
                         display: true,
                         grid: { color: '#222' },
-                        title: { display: true, text: 'Integer (n)', color: '#888' }
+                        title: { display: true, text: 'Integer (n)', color: '#888' },
+                        ticks: { stepSize: 50, color: '#f0f0f0' }
                     },
                     y: {
                         display: true,
@@ -232,18 +234,15 @@
             }
 
             const res = calculateResultant(n);
-            chart.data.labels.push(n);
-            chart.data.datasets[0].data.push(res);
+            chart.data.datasets[0].data.push({x: n, y: res});
 
             if (isPrime(n)) {
-                chart.data.datasets[1].data.push({x: n.toString(), y: res});
-            } else {
-                chart.data.datasets[1].data.push(null);
+                chart.data.datasets[1].data.push({x: n, y: res});
             }
 
             chart.update('none');
             n++;
-        }, 30);
+        }, 20);
     });
 
     initChart();
