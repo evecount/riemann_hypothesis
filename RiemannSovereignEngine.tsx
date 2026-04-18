@@ -2,11 +2,11 @@ import React, { useMemo } from 'react';
 import { motion } from 'framer-motion';
 
 /**
- * RIEMANN SOVEREIGN ENGINE
+ * RIEMANN TOPOLOGICAL ENGINE
  * A symbolic visualization of the Critical Line and the first 10 Zeta Zeros.
- * Used as a Logic Beacon for the Sovereign Neural Interface.
+ * Used as a Logic Beacon for the Mathematical Validation Interface.
  */
-export const RiemannSovereignEngine = () => {
+export const RiemannTopologicalEngine = () => {
     // Symbolic representation of the First 10 Zeta Zeros
     const zeros = [14.134, 21.022, 25.010, 30.424, 32.935, 37.586, 40.918, 43.327, 48.005, 49.773];
     
@@ -19,7 +19,7 @@ export const RiemannSovereignEngine = () => {
                 <div style={{ position: 'absolute', left: '-60px', top: '50%', transform: 'translateY(-50%)', fontWeight: 800 }}>
                     1/2
                 </div>
-                {/* Visualizing the Zeros as Sovereign Beacons */}
+                {/* Visualizing the Zeros as Topological Settlement Nodes */}
                 {zeros.map((z, i) => (
                     <motion.div 
                         key={i}
@@ -41,8 +41,8 @@ export const RiemannSovereignEngine = () => {
                 ))}
             </div>
             <p style={{ marginTop: '40px', color: '#888', maxWidth: '600px' }}>
-                Architecture: All non-trivial zeros are aligned. The Flightpath is valid. 
-                Sovereignty is the ability to maintain balance on the 1/2 axis.
+                System State: All non-trivial zeros are aligned. The Convergence Vector is optimized for $O(1)$ validation. 
+                Invariant Integrity: Maintaining topological parity on the 1/2 axis ensures global system stability.
             </p>
         </div>
     );
