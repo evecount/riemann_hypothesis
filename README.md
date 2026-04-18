@@ -6,7 +6,8 @@
 **Academic Foundations:** Nanyang Technological University (NTU) Advanced AI and Machine Learning  
 **Project Lead:** EveCount / Applied Data Science  
 **SHA-256 Public Stamp:** 4F7E6D6B0C7B4E2A1F9D8C7B6A5E4D3C2B1A0F9E8D7C6B5A4E3D  
-**[>>> EXPERIENCE THE LIVE INTERACTIVE PROOF <<<](./index.html)**
+**[>>> EXPERIENCE THE LIVE INTERACTIVE PROOF <<<](./index.html)**  
+**[>>> WATCH THE VIDEO DEMONSTRATION <<<](./assets/riemann_evecount.mp4)**
 
 ---
 
