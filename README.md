@@ -50,7 +50,7 @@ Any drift of a zero from the **Critical Line ($1/2$)** would break this volume p
 ## 🏗️ REPOSITORY STRUCTURE
 
 ### **0. Genesis & Manifesto**
-- [00_ORIGIN.md](./00_THE_CHILD_OF_THE_CRITICAL_LINE.md): The intuition of the 11-year-old child and the birth of the project.
+- [00_ORIGIN.md](./00_ORIGIN.md): The intuition of the 11-year-old child and the birth of the project.
 - [RIEMANN_MANIFESTO.md](./RIEMANN_MANIFESTO.md): The operational roadmap for SovereigntyOS integration.
 - [TECHNICAL_WHITE_PAPER.md](./TECHNICAL_WHITE_PAPER.md): The consolidated formal proof and methodology.
 - [FAQ.md](./FAQ.md): Pre-empting common academic and technical inquiries.
