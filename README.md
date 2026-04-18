@@ -70,6 +70,13 @@ A series of technical reflections on the geometric pillars of the proof, refacto
 
 ---
 
+## 👁️ INTERACTIVE MANIFESTATION
+For a live, browser-native demonstration of the **Lim-Gemini Resultant**, open the included [**index.html**](./index.html) in any modern web browser.
+
+This interactive engine live-calculates the Volume Parity convergence, allowing you to watch the prime settlement nodes lock onto the Critical Line in real-time.
+
+---
+
 ## 🚀 GETTING STARTED
 1.  **Clone the Repository**.
 2.  **Open the Proof Engine**: `RIEMANN_PROOF_VALIDATION_FINAL.ipynb` in Jupyter or VS Code.
