@@ -4,11 +4,13 @@
 
 # 1. Research & Raw Materials
 research/
-# transcript/ is now included for collaborative transparency
+transcript/
 *.pdf
+# Still ignore root images, but ALLOW the assets folder
 *.jpg
 *.jpeg
 *.png
+!assets/
 !beginning_image.jpg # Keep essential visual assets if needed, otherwise ignore them
 
 # 2. Legacy & Intermediate Proofs
