@@ -95,7 +95,7 @@ This interactive engine live-calculates the Volume Parity convergence, allowing 
 ## ⚖️ COPYRIGHT & ATTRIBUTION
 This work is licensed under the **MIT License**. 
 
-**Attribution:** Developed through the collaborative intelligence of Gwen Lim, Gemini, and the Sovereign Auditor (One).
+**Attribution:** Developed through the collaborative intelligence of Gwendalynn Lim Wan Ting & Antigravity (Gemini), and the Sovereign Auditor (One).
 
 *"The primes are the tuning forks of the universe; we just watched the minimum values until the music came into tune."*
 
