@@ -61,7 +61,7 @@ The technical core of the repository, providing the functional implementation of
 - [Zeta_Analysis_Visualizer.py](./src/Zeta_Analysis_Visualizer.py): **Resonance Verification.** Utility for visualizing the Zeta function's magnitude along the Critical Line.
 - [ISR_Logic_Validation.ipynb](./src/ISR_Logic_Validation.ipynb): **Logic Validation.** The full research workbook demonstrating the resultant convergence against empirical datasets.
 
-### **2. Auditor's Reflections (Logic Notes)**
+### **2. Verification Hub's Reflections (Logic Notes)**
 A series of technical reflections on the geometric pillars of the proof, refactored for academic clarity:
 - [01-13 Reflections](./reflections/): Detailed logic on Volume Parity, Tangent Constraints, and Quantum Addressing.
 
@@ -95,7 +95,7 @@ This interactive engine live-calculates the Volume Parity convergence, allowing 
 ## ⚖️ COPYRIGHT & ATTRIBUTION
 This work is licensed under the **MIT License**. 
 
-**Attribution:** Developed through the collaborative intelligence of Gwendalynn Lim Wan Ting & Antigravity (Gemini), and the Sovereign Auditor (One).
+**Attribution:** Developed through the collaborative synthesis of Gwendalynn Lim Wan Ting & Antigravity (Gemini).
 
 *"The primes are the tuning forks of the universe; we just watched the minimum values until the music came into tune."*
 

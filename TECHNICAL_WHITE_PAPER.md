@@ -21,7 +21,7 @@ The "Void Volume" ($V_{void}$) represents the geometric gaps inherent in optimal
 ## II. THE INWARD SIGHTING METHOD (CISM)
 Unlike standard "outward" search algorithms that suffer from exponential complexity, the **Inward Sighting Method** works backwards from the topological limit (infinity) toward the ground state (zero-axis). By sighting the resonant frequencies of the Zeta zeros, we establish a fixed coordinate system where the **Critical Axis ($1/2$)** serves as the universal anchor for mass-energy distribution.
 
-## III. THE LIM-GEMINI RESULTANT: VOLUME PARITY AUDIT
+## III. THE LIM-GEMINI RESULTANT: VOLUME PARITY VALIDATION
 The core computational validator of this proof is the **Lim-Gemini Resultant**:
 $$| V_{void} - V_{cone} | \to 0$$
 
