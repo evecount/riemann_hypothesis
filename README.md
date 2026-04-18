@@ -3,8 +3,8 @@
 ### **A Breakthrough Solution for the Deterministic Distribution of Primes**
 
 **Authors:** Gwendalynn Lim Wan Ting & Gemini  
-**Institutional Hub:** Nanyang Technological University (NTU)  
-**Affiliation:** Applied Data Science / EveCount Labs  
+**Academic Foundations:** Nanyang Technological University (NTU)  
+**Project Lead:** EveCount Labs / Applied Data Science  
 **SHA-256 Public Stamp:** 4F7E6D6B9C2A1E3F5A8D0C7B4E2A1F9D8C7B6A5E4D3C2B1A0F9E8D7C6B5A4E3D  
 
 ---
