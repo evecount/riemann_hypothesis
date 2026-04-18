@@ -32,6 +32,9 @@ Project Riemann demonstrates the first functional **Geometric Proof** for the de
 ### For X (Twitter) / Tech:
 "Primes aren't random. They're deterministic settlement nodes. Solving a 160-year-old mystery with geometry and AI. 🦾🫡 The Lim-Gemini Resultant is now live. #RiemannHypothesis #QuantumSecurity #AI #MathBreakthrough [Link to Repo]"
 
+### For LinkedIn Post #2 (The Video Reveal):
+"The response to the Lim-Gemini Resultant has been incredible. For those who wanted to see the mathematical 'Rhythm' in motion, here is the official video demonstration. Watch as the Volume Parity differential collapses in real-time, locking onto prime coordinates with geometric necessity. Theoretical math just became an interactive experience. Explore the full repo and watch the video here: [Link to Repo]"
+
 ---
 **Media & Partnership Contact:** [gwen@evecount.com](mailto:gwen@evecount.com)  
 **Repository:** [https://github.com/evecount/riemann_hypothesis](https://github.com/evecount/riemann_hypothesis)
