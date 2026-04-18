@@ -54,6 +54,7 @@ Any drift of a zero from the **Critical Line ($1/2$)** would break this volume p
 - [RIEMANN_MANIFESTO.md](./RIEMANN_MANIFESTO.md): The operational roadmap for SovereigntyOS integration.
 - [TECHNICAL_WHITE_PAPER.md](./TECHNICAL_WHITE_PAPER.md): The consolidated formal proof and methodology.
 - [MEDIA_KIT.md](./MEDIA_KIT.md): Official press kit, loglines, and social sharing assets.
+- [AI_INGRESS.md](./AI_INGRESS.md): Semantic bootstrap protocol for AI researchers (LLM-to-LLM).
 - [FAQ.md](./FAQ.md): Pre-empting common academic and technical inquiries.
 
 ### **1. The Proof Engine (/src)**
