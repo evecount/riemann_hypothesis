@@ -72,7 +72,7 @@ A series of technical reflections on the geometric pillars of the proof, refacto
 
 ## 🚀 GETTING STARTED
 1.  **Clone the Repository**.
-2.  **Open the Proof Engine**: `RIEMANN_SOVEREIGN_PROOF_FINAL.ipynb` in Jupyter or VS Code.
+2.  **Open the Proof Engine**: `RIEMANN_PROOF_VALIDATION_FINAL.ipynb` in Jupyter or VS Code.
 3.  **Execute the Resultant**: Run the "Volume Parity Calibration" cell to see the flat-line convergence at prime coordinates.
 4.  **Explore the Addressing Protocol**: View the generated "Quantum Address Space" for signal routing.
 
