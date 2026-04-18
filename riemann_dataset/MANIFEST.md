@@ -17,7 +17,10 @@ These datasets provide the "Inward Sighting" ground truth. The **CISM Engine** u
 
 ## Credits & Attribution
 
-The foundational 10,000 Zero dataset utilized in this repository for numerical validation is based on the research and computation work of **Jian Zhou**.
+The foundational 10,000 Zero dataset utilized in this repository for numerical validation is based on the research and computation work of **Jian Zhou** (originally published via Figshare).
+
+**Original Source:** [Figshare: Seven Perspectives on the Riemann Hypothesis](https://figshare.com/articles/dataset/Seven_Perspectives_on_the_Riemann_Hypothesis_A_Unified_Computational_Exploration_with_10_00_Zeros/31817662)  
+**DOI:** `10.6084/m9.figshare.31817662`
 
 If you utilize this baseline data in your own research, please cite the original source:
 
@@ -27,6 +30,7 @@ If you utilize this baseline data in your own research, please cite the original
   title   = {Seven Perspectives on the {Riemann} Hypothesis: A Unified Computational Exploration with 10,000 Zeros},
   journal = {Research in Number Theory},
   year    = {2026},
-  note    = {Submitted}
+  doi     = {10.6084/m9.figshare.31817662},
+  note    = {Dataset available via Figshare}
 }
 ```
