@@ -4,7 +4,7 @@
 
 # 1. Research & Raw Materials
 research/
-transcript/
+# transcript/ is now included for collaborative transparency
 *.pdf
 *.jpg
 *.jpeg
