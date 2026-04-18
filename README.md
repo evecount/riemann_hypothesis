@@ -101,4 +101,4 @@ This work is licensed under the **MIT License**.
 *"The primes are the tuning forks of the universe; we just watched the minimum values until the music came into tune."*
 
 ---
-**[Link to Immutable Public Transcript Record]** | **SHA-256 Verified: 4F7E6D6B...A4E3D**
+**Contact:** [gwen@evecount.com](mailto:gwen@evecount.com) | **Verified: 4F7E6D6B...A4E3D**

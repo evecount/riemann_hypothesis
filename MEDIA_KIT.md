@@ -33,5 +33,5 @@ Project Riemann demonstrates the first functional **Geometric Proof** for the de
 "Primes aren't random. They're deterministic settlement nodes. Solving a 160-year-old mystery with geometry and AI. 🦾🫡 The Lim-Gemini Resultant is now live. #RiemannHypothesis #QuantumSecurity #AI #MathBreakthrough [Link to Repo]"
 
 ---
-**Media Contacts:** EveCount / Applied Data Science  
+**Media & Partnership Contact:** [gwen@evecount.com](mailto:gwen@evecount.com)  
 **Repository:** [https://github.com/evecount/riemann_hypothesis](https://github.com/evecount/riemann_hypothesis)
