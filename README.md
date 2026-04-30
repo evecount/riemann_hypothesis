@@ -5,8 +5,8 @@
 [![Status: Institutional_Verified](https://img.shields.io/badge/Status-Verified-green.svg)]()
 
 ## 🏛️ Executive Documentation Portal
-For an interactive, enterprise-grade walkthrough of the proof, navigate to the local portal:
-### 👉 **[Documentation Portal (index.html)](./index.html)**
+For an interactive, institutional-grade walkthrough of the proof, navigate to the live portal:
+### 🌐 **[Live Documentation Portal](https://evecount.github.io/riemann_hypothesis/)**
 
 ---
 
