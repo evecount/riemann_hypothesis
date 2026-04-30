@@ -28,4 +28,18 @@ node_modules/
 # 4. OS & User Specifics
 .DS_Store
 Thumbs.db
-desktop.ini
+# 5. Local Sovereignty (Private Assets)
+reflections/
+mission_registration_bridge.py
+dgi_jax_implementation.py
+app/
+index.html
+
+# 6. Datasets & Scratch
+riemann_dataset/
+scratch/
+THESIS_PROOF_WORKBOOK.ipynb
+THESIS_FINAL_DR_TEOH.ipynb
+RIEMANN_PROOF_VALIDATION_FINAL.ipynb
+validation_results.json
+CISM_Engine_Validation_Report.md
