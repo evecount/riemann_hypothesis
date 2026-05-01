@@ -57,7 +57,7 @@ To verify the proof locally:
 This research represents a synthesis of geometric intuition and high-fidelity spectral analysis, establishing the Riemann Hypothesis as a **Topological Law.**
 
 **Lead Researcher:** Gwendalynn Lim Wan Ting  
-**Integration:** One (Sovereignty OS v2.5)
+**Integration:** One (Sovereignty OS v2.5) & Antigravity (Advanced Agentic AI by Google DeepMind)
 
 ### 📜 Cryptographic Timestamp & Prior Art
 The following SHA-256 hash serves as a definitive record of **Prior Art** for the topological proof and conformal manifold architecture contained in this repository.
